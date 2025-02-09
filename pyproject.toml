@@ -24,7 +24,7 @@ keywords = []
 name = "makefunc"
 readme = "README.rst"
 requires-python = ">=3.8"
-version = "0.0.3+local.3"
+version = "0.0.3+local.4"
 
 [project.license]
 file = "LICENSE.txt"
