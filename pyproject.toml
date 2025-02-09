@@ -11,9 +11,12 @@ authors = [
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
     "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3 :: Only",
+    "Typing :: Typed",
 ]
 dependencies = []
 description = "makefunc"
@@ -21,7 +24,7 @@ keywords = []
 name = "makefunc"
 readme = "README.rst"
 requires-python = ">=3.8"
-version = "0.0.3"
+version = "0.0.3+local"
 
 [project.license]
 file = "LICENSE.txt"
