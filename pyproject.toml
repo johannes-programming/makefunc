@@ -1,12 +1,12 @@
 [build-system]
 build-backend = "setuptools.build_meta"
 requires = [
-    "setuptools>=61.0",
+    "setuptools>=61.0,<62",
 ]
 
 [project]
 authors = [
-    { email = "johannes-programming@mailfence.com", name = "Johannes" },
+    { email = "johannes.programming@gmail.com", name = "Johannes" },
 ]
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
@@ -23,8 +23,8 @@ description = "This projects allows to turn a class into a function."
 keywords = []
 name = "makefunc"
 readme = "README.rst"
-requires-python = ">=3.8"
-version = "0.0.3+local.4"
+requires-python = ">=3.11"
+version = "0.0.3+local.5"
 
 [project.license]
 file = "LICENSE.txt"
